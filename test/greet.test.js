@@ -6,4 +6,4 @@ describe('greet.js', function () {
     assert.equal('Hello, Janine', greetFunct('Janine'));
   });
 
-});
+}); 
